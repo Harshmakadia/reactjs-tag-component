@@ -57,5 +57,6 @@ Following are the props that can be passed to <Tags/> component
 | backgroundColor | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Background color for tags |
 | backgroundColorHover | ColorName or ColorCode Eg:(blue/#dcdcdc)       |    Background color for tags when hovered over it |
 | fontSize | Font size Eg:(14)     |    Pass the font size here as per required |
+| fontColor | color Eg:(blue/#dcdcdc)     |    Change the text color which is needed |
 
 
