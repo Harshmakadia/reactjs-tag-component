@@ -1,6 +1,6 @@
 # reactjs-tag-component
 
-[Find out more on npmjs.com](https://www.npmjs.com/package/tags-pro)
+<a href="https://www.npmjs.com/package/tags-pro" target="_blank">Find out more on npmjs.com</a>
 
 Easy steps to install and use the tags component in reactJS.
 
