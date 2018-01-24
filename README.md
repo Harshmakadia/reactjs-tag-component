@@ -1,5 +1,7 @@
 # reactjs-tag-component
 
+[Find out more on npmjs.com](https://www.npmjs.com/package/tags-pro)
+
 Easy steps to install and use the tags component in reactJS.
 
 Follow following to get started :
