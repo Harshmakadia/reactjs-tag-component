@@ -4,8 +4,7 @@
   "description": "Tags that can be created and removed",
   "main": "build/index.js",
   "scripts": {
-    "build": "react-scripts build",
-    "build-component": "babel src/tagBox.jsx -o tagBox.js --presets=es2015,react",
+    "build": "babel src --out-dir build --presets=es2015,react",
     "eject": "react-scripts eject",
     "start": "react-scripts start"
   },
