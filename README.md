@@ -29,7 +29,7 @@ class App extends Component {
           <Tags
               dataSource={[{name: 'Machester United', id: '1'},
                   {name: 'PSG', id: '2'},
-                  {name: 'Barcelon', id: '3'},
+                  {name: 'Barcelona', id: '3'},
                   {name: 'Real Madrid', id: '4'},
               ]}
               isReadOnly = {true}
