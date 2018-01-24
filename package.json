@@ -1,6 +1,6 @@
 {
   "name": "tags-pro",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tags that can be created and removed",
   "main": "build/index.js",
   "scripts": {

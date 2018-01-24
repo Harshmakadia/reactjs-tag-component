@@ -60,7 +60,7 @@ class TagBox extends React.Component {
         onMouseLeave={_this.hideCloseIcon}
         key={_this.props.idx}
       >
-        <p className="rect-tag-name" style={{ fontSize: this.props.fontSize.toString(), color: this.props.fontColor.toString() }}>{_this.props.tagName}</p>
+        <p className="rect-tag-name" style={{ fontSize: this.props.fontSize, color: this.props.fontColor}}>{_this.props.tagName}</p>
         {
                     (_this.state.showCloseIcon) ?
                         (<div
