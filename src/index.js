@@ -25,6 +25,7 @@ class Tags extends React.Component {
       backgroundColor: props.backgroundColor,
       backgroundColorHover: props.backgroundColorHover,
       fontSize: props.fontSize,
+      fontColor: props.fontColor,
     };
     this.removeTagName = this.removeTagName.bind(this);
   }
@@ -52,6 +53,7 @@ class Tags extends React.Component {
       backgroundColor={this.state.backgroundColor}
       backgroundColorHover={this.state.backgroundColorHover}
       fontSize={this.state.fontSize}
+      fontColor={this.state.fontColor}
     />));
 
     return (
