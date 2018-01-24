@@ -49,7 +49,7 @@ class App extends Component {
 export default App;
 ```
 
-Following are the props that can be passed to <Tags/> component
+Following are the props that can be passed to <Tags/> component to use it
 
 | Props Name        | values           | Description  |
 | ------------- |:-------------:| -----:|
