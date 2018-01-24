@@ -29,7 +29,7 @@ class App extends Component {
           <Tags
               dataSource={[{name: 'Machester United', id: '1'},
                   {name: 'PSG', id: '2'},
-                  {name: 'Barcelon', id: '3'},
+                  {name: 'Barcelona', id: '3'},
                   {name: 'Real Madrid', id: '4'},
               ]}
               isReadOnly = {true}
@@ -46,12 +46,12 @@ class App extends Component {
 export default App;
 ```
 
-Follow are the props that can be passed to <Tags/> component
+Following are the props that can be passed to <Tags/> component
 
 | Props Name        | values           | Description  |
 | ------------- |:-------------:| -----:|
 | dataSource      | [{name: 'Hello', id: '1'}] | Pass the array of object here with object containing name and id  |
-| isReadOnly      | Boolean Eg:(true/false)      |   This flag with enable deleting of tags when hovered on it if set to true |
+| isReadOnly      | Boolean Eg:(true/false)      |   This flag with enable deleting of tags when hovered on it if set to false |
 | borderColor | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Border color for tags
 | borderColorHover | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Border color for tags when hovered|
 | backgroundColor | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Background color for tags |
