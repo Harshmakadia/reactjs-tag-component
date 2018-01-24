@@ -2,7 +2,7 @@
  * Copyright © 2018 Harsh Makadia, All rights reserved.
  */
 import React from 'react';
-import './tags.css';
+import '../tags.css';
 import TagBox from './tagBox';
 
 const CSSVariable = {

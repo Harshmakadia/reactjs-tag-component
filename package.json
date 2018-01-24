@@ -2,20 +2,34 @@
   "name": "tags-pro",
   "version": "1.0.0",
   "description": "Tags that can be created and removed",
-  "main": "src/index.js",
+  "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "react-scripts build",
+    "build-component": "babel src/tagBox.jsx -o tagBox.js --presets=es2015,react",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start"
   },
   "keywords": [
     "react"
   ],
-  "author": "Harsh Makadia <harshmakadia11@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Harshmakadia/reactjs-tag-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harshmakadia/reactjs-tag-component/issues"
+  },
+  "author": "Harsh Makadia <harshmakadia11@gmail.com>, Ridham Tarpara <ridham.tarpara@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
     "eslint": "^4.16.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
