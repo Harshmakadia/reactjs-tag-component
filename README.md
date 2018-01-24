@@ -51,11 +51,11 @@ Follow are the props that can be passed to <Tags/> component
 | Props Name        | values           | Description  |
 | ------------- |:-------------:| -----:|
 | dataSource      | [{name: 'Hello', id: '1'}] | Pass the array of object here with object containing name and id  |
-| isReadOnly      | Boolean (true/false)      |   This flag with enable deleting of tags when hovered on it if set to true |
-| borderColor | ColorName or ColorCode (blue/#dcdcdc)      |    Border color for tags
-| borderColorHover | ColorName or ColorCode      |    Border color for tags when hovered|
-| backgroundColor | ColorName or ColorCode      |    Background color for tags |
-| backgroundColorHover | ColorName or ColorCode      |    Background color for tags when hovered over it |
-| fontSize | Font size (14)     |    Pass the font size here as per required |
+| isReadOnly      | Boolean Eg:(true/false)      |   This flag with enable deleting of tags when hovered on it if set to true |
+| borderColor | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Border color for tags
+| borderColorHover | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Border color for tags when hovered|
+| backgroundColor | ColorName or ColorCode Eg:(blue/#dcdcdc)      |    Background color for tags |
+| backgroundColorHover | ColorName or ColorCode Eg:(blue/#dcdcdc)       |    Background color for tags when hovered over it |
+| fontSize | Font size Eg:(14)     |    Pass the font size here as per required |
 
 
