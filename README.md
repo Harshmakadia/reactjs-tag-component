@@ -47,6 +47,7 @@ export default App;
 ```
 
 Follow are the props that can be passed to <Tags/> component
+
 | Props Name        | values           | Description  |
 | ------------- |:-------------:| -----:|
 | dataSource      | [{name: 'Hello', id: '1'}] | Pass the array of object here with object containing name and id  |
