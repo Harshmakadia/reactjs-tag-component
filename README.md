@@ -2,6 +2,8 @@
 
 <a href="https://www.npmjs.com/package/tags-pro" target="_blank">Find out more on npmjs.com</a>
 
+![Preview](https://github.com/Harshmakadia/reactjs-tag-component/blob/master/images/tags.gif)
+
 Easy steps to install and use the tags component in reactJS.
 
 Follow following to get started :
@@ -61,5 +63,6 @@ Following are the props that can be passed to <Tags/> component to use it
 | backgroundColorHover | ColorName or ColorCode Eg:(blue/#dcdcdc)       |    Background color for tags when hovered over it |
 | fontSize | Font size Eg:(14)     |    Pass the font size here as per required |
 | fontColor | color Eg:(blue/#dcdcdc)     |    Change the text color which is needed |
+
 
 
