@@ -37,6 +37,7 @@ class App extends Component {
               borderColorHover = "red"
               backgroundColor = "orange"
               backgroundColorHover = "pink"
+              fontColor = "blue"
               fontSize = "14"/>
       </div>
     );
