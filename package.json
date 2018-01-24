@@ -4,8 +4,7 @@
   "description": "Tags that can be created and removed",
   "main": "build/index.js",
   "scripts": {
-    "build": "react-scripts build",
-    "build-component": "babel src/tagBox.jsx -o tagBox.js --presets=es2015,react",
+    "build-component": "babel src --out-dir build --presets=es2015,react",
     "eject": "react-scripts eject",
     "start": "react-scripts start"
   },
@@ -22,6 +21,7 @@
   "author": "Harsh Makadia <harshmakadia11@gmail.com>, Ridham Tarpara <ridham.tarpara@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "mr-emoji": "0.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
