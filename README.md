@@ -1,5 +1,11 @@
 # reactjs-tag-component
 
+<a href="https://twitter.com/intent/follow?screen_name=MakadiaHarsh"><img src="https://img.shields.io/twitter/follow/MakadiaHarsh.svg?label=Follow%20@MakadiaHarsh" alt="Follow @MakadiaHarsh"></img></a>
+<a href="https://npmjs.com/package/tags-pro">
+  <img src="https://img.shields.io/npm/dt/tags-pro.svg"></img>
+  <img src="https://img.shields.io/npm/v/tags-pro.svg"></img>
+</a>
+
 <a href="https://www.npmjs.com/package/tags-pro" target="_blank">Find out more on npmjs.com</a>
 
 ![Preview](https://github.com/Harshmakadia/reactjs-tag-component/blob/master/images/tags.gif)
